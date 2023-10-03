@@ -3,7 +3,7 @@ package lec3;
 /**
  * Приклади використання специфікаторів формату printf()
  */
-public class ex2_2 {
+public class Ex2_2 {
     public static void main(String[] args) {
 
 //        Приклад 1.
@@ -21,14 +21,14 @@ public class ex2_2 {
 //        System.out.printf("%d\t%c%n", 169, 169);
 
 //        Приклад 5.
-//        System.out.printf("%cPupkin 2020", 169);
+//        System.out.printf("%cPupkin 2023", 169);
 
 //        Приклад 6.
 //        String format = "%c%S %d";
-//        System.out.printf(format, 169,"Pupkin",2020);
+//        System.out.printf(format, 169,"Pupkin",2023);
 
 //        Приклад 7.
-        String text=String.format("%c%S %d",169,"Pupkin",2020);
+        String text=String.format("%c%S %d",169,"Pupkin",2023);
         System.out.println(text);
 
     }

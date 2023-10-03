@@ -1,11 +1,11 @@
 package lec3;
-
 import java.util.concurrent.TimeUnit;
 
 /**
  * Приклад використання \b та \r для створення анімаційного ефекту
  */
-public class ex1_6 {
+
+public class Ex1_6 {
     public static void main(String[] args) throws InterruptedException {
 
         // 10 циклів анімації

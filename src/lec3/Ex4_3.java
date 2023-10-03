@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Коректне визначення коду натиснутої клавіші
  */
 
-public class ex4_3 {
+public class Ex4_3 {
     public static void main(String[] args) {
         boolean exit = true;
         String code = "";

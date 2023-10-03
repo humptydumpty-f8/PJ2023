@@ -3,7 +3,7 @@ package lec3;
 /**
  * Приклад використання спеціальних (екрануючих) символів форматування
  */
-public class ex1_2 {
+public class Ex1_2 {
     public static void main(String[] args) {
 
         System.out.println(

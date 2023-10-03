@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Введення даних з використанням Scanner і конструкції try-with-resources
  */
-public class ex4_2 {
+public class Ex4_2 {
     public static void main(String[] args) {
 
         System.out.print("Input personal data (name-age-height): ");//запрошення на введення

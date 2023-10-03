@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Приклад використання \r
  */
-public class ex1_3 {
+public class Ex1_3 {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.print("Чорне");

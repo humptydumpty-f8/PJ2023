@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * Приклад використання \b
  */
-public class ex1_5 {
+public class Ex1_5 {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.print("2 + 2 = 5");

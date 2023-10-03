@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Введення даних з використанням Scanner
  */
-public class ex4_1 {
+public class Ex4_1 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);//створення сканера
